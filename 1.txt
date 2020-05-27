@@ -1,7 +1,0 @@
-Hello, this is the first file.
-
-This file has to be pushed to the git HUb.
-
-But before that i had connect the git remote repo to the local rep for sync.
-
-Check if the gitHUb has a repository created for this. If not, create one and then copy the repo link and sync.
