@@ -2,3 +2,6 @@ new addition has been done in previous file which was added prior to this.
 
 First addition:
 > write a paragraph on the following things
+
+
+Second addition: Details are yet to be filled by the respective teams.
